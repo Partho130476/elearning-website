@@ -71,7 +71,7 @@ elearning-website/
 1. Clone the repository
 
 
-git clone https://github.com/yourusername/elearning-website.git
+git clone https://github.com/Partho130476/elearning-website.git
 
 
 2. Move the project folder to your **XAMPP / WAMP / LAMP htdocs directory**
